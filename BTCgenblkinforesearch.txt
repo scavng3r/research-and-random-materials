@@ -53,7 +53,7 @@ CONTENTS - 50 btc
 
    -u.s.s omicron? u.s.s. mkv??
    -found a cross emoji in some decoded base 64 after message decode
-   - various outputs such as ꗠ
+   - various mixed (unicode character?)outputs such as ꗠ
    -
    
 
