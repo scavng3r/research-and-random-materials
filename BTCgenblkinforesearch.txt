@@ -13,8 +13,12 @@ Scavng3r's scraped resources in text format:
 
 resource note - BTC GEN BLOCK INFO
 
-TIME
-DATE
+TIME  (according to blockinfo*) 
+2009-01-03 18:15:05 *approx*
+
+
+DATE format unknown, may be jan-3-2009 or 2009-1-march
+
 HASH(s)
 MERKLE
 CONTENTS
