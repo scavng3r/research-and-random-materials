@@ -20,7 +20,8 @@ TIME  (according to blockinfo*)
 DATE format unknown, may be 2009-jan-3 or 2009-1-march
 
 HASH(s)
-MERKLE
+MERKLE 
+-    4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
 CONTENTS
 
 
