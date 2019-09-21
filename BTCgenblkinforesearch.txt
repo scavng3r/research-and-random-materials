@@ -20,6 +20,13 @@ TIME  (according to blockinfo*)
 DATE format unknown, may be 2009-jan-3 or 2009-1-march
 
 HASH(s)
+
+blockhash-   000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+
+
+
+
+
 blockchain.info site cites a previous block with hash
 -   0000000000000000000000000000000000000000000000000000000000000000      (base64 encodeable   translates to = 
 MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==  )
