@@ -47,8 +47,11 @@ MERKLE
 
 CONTENTS - 50 btc
 --other known contents or hybrid analysis results are below:
-   -
-   -
+   - voice anlysis thru google have produce promsing results after some code removal that blocks the speech
+   system from auto identify the decoded message
+
+
+   -u.s.s omicron? u.s.s. mkv??
    -
    -
    -
