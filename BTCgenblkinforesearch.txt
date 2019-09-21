@@ -37,7 +37,20 @@ MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAw
 
 MERKLE 
 -    4a5e1e4baab89f3a32518a88c31bc87f618f76673e2cc77ab2127b7afdeda33b
-CONTENTS
+
+
+
+
+
+
+CONTENTS - 50 btc
+--other known contents or hybrid analysis results are below:
+   -
+   -
+   -
+   -
+   -
+   
 
 
 
