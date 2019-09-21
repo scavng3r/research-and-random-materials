@@ -1,5 +1,9 @@
 Bitcoin Genesis block research
 
 
-known facts  
+known facts 
+*Sources cited please*
+
+https://www.blockchain.com/btc/block-height/0 is a current info copy in web browser format, easy on the eyes and various points of interest including a copy of the valid BTC blockchain succeeding release of gen block
+
 
