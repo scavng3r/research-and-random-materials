@@ -7,3 +7,23 @@ known facts
 https://www.blockchain.com/btc/block-height/0 is a current info copy in web browser format,
  easy on the eyes and various points of interest including a copy of the valid BTC blockchain succeeding release of gen block
     not maintained by scavng3r this is blockchain.info
+
+
+Scavng3r's scraped resources in text format:
+
+resource note - BTC GEN BLOCK INFO
+
+TIME
+DATE
+HASH(s)
+MERKLE
+CONTENTS
+
+
+
+
+
+
+
+
+
