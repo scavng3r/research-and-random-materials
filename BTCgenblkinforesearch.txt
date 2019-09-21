@@ -6,6 +6,7 @@ known facts
 
 https://www.blockchain.com/btc/block-height/0 is a current info copy in web browser format,
  easy on the eyes and various points of interest including a copy of the valid BTC blockchain succeeding release of gen block
+ and also from the main 64 zero hash
     not maintained by scavng3r this is blockchain.info
 
 
