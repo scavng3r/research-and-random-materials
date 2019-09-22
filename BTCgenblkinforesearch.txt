@@ -50,6 +50,15 @@ CONTENTS - 50 btc
    - voice anlysis thru google have produce promsing results after somet copy pasta to the speech
    system and letting it auto identify the unencoded message thru a base64 decode:
 
+so this
+
+The Times 03/Jan/2009 Chancellor on brink of second bailout for bank
+
+
+decoded to base64
+is
+
+
 
 N㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
