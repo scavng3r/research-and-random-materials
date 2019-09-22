@@ -61,7 +61,13 @@ CONTENTS - 50 btc
    -
    
    -----------------------------------------------------------
-   
+   0000000000000000000000000000000000000000000000000000000000000000
+is equal to
+
+MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA
+==
+
+add message
    
    MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA
 ==The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
