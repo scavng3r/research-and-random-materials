@@ -51,14 +51,14 @@ CONTENTS - 50 btc
    system from auto identify the unencoded message thru a base64 decode:
 
 
-㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
+N㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
 auto detects chinese with this output under
 N㊧sseulhɪqíng B qiān zYhỞr rèn tǎnlyaebs jiǎo K
 
 and this output to english
 
-左쓿ɪ 擏B婜zYhỞr toughness K
+N Left 쓿ɪ 婜B婜zYhỞr toughness K
 
 
 
