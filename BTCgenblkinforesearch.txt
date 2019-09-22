@@ -148,7 +148,7 @@ so what is?
 
 just a glitch??? because the decode to base64? or is this normal?  im such a noob here
 anyways just for reference
-here is the zero hash and the message decoded together
+here is the zero hash and the message encoded together
 
 
 0000000000000000000000000000000000000000000000000000000000000000The Times 03/Jan/2009 Chancellor on brink of second bailout for bank
