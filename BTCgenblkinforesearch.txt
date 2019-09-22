@@ -70,6 +70,25 @@ is equal to this from base64 decode
 
 
 
+000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f
+
+is equal to this base64 encode
+
+
+MDAwMDAwMDAwMDE5ZDY2ODljMDg1YWUxNjU4MzFlOTM0ZmY3NjNhZTQ2YTJhNmMxNzJiM2YxYjYwYThjZTI2Zg==
+
+
+adding this message like this
+
+MDAwMDAwMDAwMDE5ZDY2ODljMDg1YWUxNjU4MzFlOTM0ZmY3NjNhZTQ2YTJhNmMxNzJiM2YxYjYwYThjZTI2Zg==
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+
+(no break) is equal to this base64 decode
+
+000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26fN㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
+
+
+
 
 
 
