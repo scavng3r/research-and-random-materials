@@ -52,6 +52,12 @@ CONTENTS - 50 btc
 
 ㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
+auto detects chinese with this output under
+㊧Sseulhɪqíng B qiān zYhỞr rèn tǎnlyaebs jiǎo K
+
+and this output to english
+
+
 
    -u.s.s omicron? u.s.s. mkv??
    -found a cross emoji in some decoded base 64 after random message decode ---i literally just took a google.ca set of random letter 
