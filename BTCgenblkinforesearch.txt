@@ -6,10 +6,11 @@ https://www.blockchain.com/btc/address/155vPxtHAuS6WiM4613eniLRS9wPiAEN6c
 -somewhat related
 
 
-where does this go satoshi?? https://www.blockchain.com/r?url=1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN
+where do these go satoshi??
+ https://www.blockchain.com/r?url=1PC9aZC4hNX2rmmrt7uHTfYAS3hRbph4UN
+https://www.blockchain.com/r?url=1BvBMSEYstWetqTFn5Au4m4GFg7xJaNVN2
 
-
-would you donate here?
+would you donate here to satoshi??
 
 <div style="font-size:16px;margin:0 auto;width:300px" class="blockchain-btn"
      data-address="155vPxtHAuS6WiM4613eniLRS9wPiAEN6c"
