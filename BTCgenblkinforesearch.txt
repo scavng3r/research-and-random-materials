@@ -59,7 +59,14 @@ CONTENTS - 50 btc
    
    - various mixed (unicode character?)outputs with some text(/?) puke including such characters as ꗠ
    -
-   
+   MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA
+==The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+
+
+is equal to this from base64 decode
+
+
+0000000000000000000000000000000000000000000000000000000000000000N㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
 
 
