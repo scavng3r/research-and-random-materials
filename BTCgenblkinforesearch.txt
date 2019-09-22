@@ -1,5 +1,5 @@
 Bitcoin Genesis block research
-
+someone sent 0.00725 to from this address 1Tx1R7vtervPg45z8twNeJHuymYrQvkbF to SATOSHI NAKAMOTO
 
 https://www.blockchain.com/btc/address/1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
 https://www.blockchain.com/btc/address/155vPxtHAuS6WiM4613eniLRS9wPiAEN6c
