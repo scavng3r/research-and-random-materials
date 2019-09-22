@@ -88,7 +88,7 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
 000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26fN㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
 
-
+-----------------------------------------------------------
 
 now encode to base 64 using the whole string
 
