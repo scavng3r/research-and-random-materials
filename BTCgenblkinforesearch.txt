@@ -94,18 +94,12 @@ The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
 
 -----------------------------------------------------------
 
-now encode to base 64 using the whole string
+now encode to base 64 using the whole string of the first actual hash not zeroed
 
-MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA
-==The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
+MDAwMDAwMDAwMDE5ZDY2ODljMDg1YWUxNjU4MzFlOTM0ZmY3NjNhZTQ2YTJhNmMxNzJiM2YxYjYwYThjZTI2Zg==
+The Times 03/Jan/2009 Chancellor on brink of second bailout for banks
 
 
-
-which is equal to
-
-TURBd01EQXdNREF3TURBd01EQXdNREF3TURBd01EQXdNREF3TURBd01EQXdNREF3TURBd01EQXdNREF3TURBd01EQXdNREF3TURB
-d01EQXdNREF3TUEKPT1UaGUgVGltZXMgMDMvSmFuLzIwMDkgQ2hhbmNlbGxvciBvbiBicmluayBvZiBzZWNvbmQgYmFpbG91dCBm
-b3IgYmFua3M=
 
 
 
