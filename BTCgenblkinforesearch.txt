@@ -48,7 +48,7 @@ MERKLE
 CONTENTS - 50 btc
 --other known contents or hybrid analysis results are below:
    - voice anlysis thru google have produce promsing results after some code removal that blocks the speech
-   system from auto identify the encoded message to base 64 message:
+   system from auto identify the unencoded message to unencoded base 64 message:
 
 
 ㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
