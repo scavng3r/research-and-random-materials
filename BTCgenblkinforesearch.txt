@@ -134,6 +134,17 @@ actually we should have a unencoded string become decoded  and also an encoded s
 so twin strings, in different formats
 
 
+like this
+
+MDAwMDAwMDAwMDE5ZDY2ODljMDg1YWUxNjU4MzFlOTM0ZmY3NjNhZTQ2YTJhNmMxNzJiM2YxYjYwYThjZTI2Zg==
+The Times 03/Jan/2009 Chancellor on brink of
+ second bailout for banksN㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
+
+
+
+so what is?
+
+㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
 
 
