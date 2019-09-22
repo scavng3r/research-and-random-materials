@@ -52,7 +52,10 @@ CONTENTS - 50 btc
 
 
    -u.s.s omicron? u.s.s. mkv??
-   -found a cross emoji in some decoded base 64 after random message decode ---i literally just took a google.ca set of random letter and number gibberish at the end of a url
+   -found a cross emoji in some decoded base 64 after random message decode ---i literally just took a google.ca set of random letter 
+   and number gibberish at the end of a url
+   
+   
    
    - various mixed (unicode character?)outputs with some text(/?) puke including such characters as ꗠ
    -
