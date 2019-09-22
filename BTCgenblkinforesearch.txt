@@ -50,10 +50,11 @@ CONTENTS - 50 btc
    - voice anlysis thru google have produce promsing results after some code removal that blocks the speech
    system from auto identify the un encoded decoded to base 64 message:
 
+
 ㊧쓿ɪ擏B婜zYhỞr靭襢럢暞K
 
 auto detects chinese with this output under
-㊧Sseulhɪqíng B qiān zYhỞr rèn tǎnlyaebs jiǎo K
+N㊧sseulhɪqíng B qiān zYhỞr rèn tǎnlyaebs jiǎo K
 
 and this output to english
 
